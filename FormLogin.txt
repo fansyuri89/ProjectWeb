@@ -2,9 +2,9 @@ membuat form login
 - tambahkan label
   - label user
   - label password
-- lambahkan textbox
-  - text admin
-  - text kunci
+- tambahkan textbox
+  - menambah textbox user
+  - menambah textbox pasword
 - tambahkan button
   - button ok
   - button cancel
