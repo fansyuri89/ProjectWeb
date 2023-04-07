@@ -1,4 +1,8 @@
 membuat form login
 - tambahkan label
+  - label user
+  - label password
 - lambahkan textbox
 - tambahkan button
+  - button ok
+  - button cancel
