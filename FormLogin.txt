@@ -3,6 +3,8 @@ membuat form login
   - label user
   - label password
 - lambahkan textbox
+  - text admin
+  - text kunci
 - tambahkan button
   - button ok
   - button cancel
