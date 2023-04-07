@@ -1,4 +1,7 @@
 disini saya akan membuat sebuah project web sekolah
 - membuat tampilan
+  - membuat form master
+  - membuat form transaksi
+  - membuat form laporan
 - membuat backend
 - membuat database
